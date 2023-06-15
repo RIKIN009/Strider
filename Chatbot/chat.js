@@ -22,4 +22,4 @@ class Chat extends Component{
 
     };
 };
-export defaultcha
+export default Chat
